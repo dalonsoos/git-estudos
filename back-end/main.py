@@ -1,3 +1,3 @@
 nome = "Daniel"
 
-print(f"Olá, {nome}! Bem-vindo ao GitHub Copilot.")
+print(f"Olá, {nome}! Bem-vindo ao GitHub.")
