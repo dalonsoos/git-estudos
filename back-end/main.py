@@ -1,3 +1,8 @@
 nome = "Daniel"
 
-print(f"Olá, {nome}! Bem-vindo ao GitHub.")
+def saudacao(nome):
+    return f"Olá, {nome}! Bem-vindo ao GitHub."
+
+if __name__ == "__main__":
+    print(saudacao(nome))
+    
